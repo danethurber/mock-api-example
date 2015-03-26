@@ -1,0 +1,13 @@
+{
+  "name": "mock-api-example",
+  "version": "0.0.1",
+  "description": "Example mock api with express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "glob": "^5.0.3"
+  }
+}
